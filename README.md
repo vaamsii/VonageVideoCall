@@ -2,6 +2,8 @@
 
 It is a video call app using Vonage Api, for video calling. Which is using the using the OpenTok.js library and Accelerator Core JS library. 
 
+Built this using the React app
+
 
 # running the app
 
